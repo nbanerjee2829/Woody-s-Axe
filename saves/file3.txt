@@ -1,0 +1,7 @@
+Level1   1
+Level2   1
+Level3   0
+Coins     3
+MaxHealth 10
+MaxArrows 10
+Damage   1

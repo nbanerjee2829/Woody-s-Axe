@@ -1,0 +1,267 @@
+Texture   MainMenuBackground images/MainMenu_Background.png
+Texture   TexThunder	images/misc/thunder.png
+Texture   TexExplode    images/misc/explosion128.png  
+Texture   TexFireBird	images/misc/fireBird.png      
+Texture   TexRunRight   images/gothic/run_right.png
+Texture   TexJump      	images/gothic/jump.png
+Texture   TexStandD     images/gothic/crouch.png              
+Texture   TexStandR     images/gothic/idle.png
+Texture   TexStandU     images/gothic/idle.png
+Texture   TexDagger    	images/gothic/DaggerAttack.png 
+Texture   TexAxe    	images/gothic/AxeAttack.png 
+Texture   TexBow    	images/gothic/BowAttack.png 
+Texture   TexArrow	images/gothic/Arrow.png
+Texture   TexArrowPick  images/Items/arrowPick.png
+Texture   TexBush    	images/tloz/brown/tile_bush.png
+Texture   TexGroundGrass     images/gothic/tileGround1.png
+Texture   TexGroundDirt     images/gothic/tileGround2.png
+Texture   TexRock           images/gothic/rock.png
+Texture   TexDamagedRock           images/gothic/damagedRock.png
+Texture   TexGoal           images/gothic/Goal.png
+Texture   TexPortal           images/gothic/portal.png
+
+
+Texture   TexTektite    images/tloz/tektite.png
+Texture   TexGhostShriek images/enemies/ghost-shriek.png
+Texture   TexGhostVanish images/enemies/ghost-vanish.png
+Texture   TexHellHound  images/enemies/hell-hound-run.png
+Texture   TexDemonIdle  images/enemies/demon-idle.png
+Texture   TexDemonAttack  images/enemies/demon-attack.png
+Texture   TexFireSkull  images/enemies/fire-skull.png
+Texture   TexHellBeastIdle   images/enemies/hell-beast-idle.png
+Texture   TexHellBeastBurn   images/enemies/hell-beast-burn.png
+Texture   TexSkeleton   images/enemies/Idle.png
+Texture   TexSkeletonWalk   images/enemies/Walk.png
+Texture   TexSkeletonAttack   images/enemies/Attack.png
+Texture   TexSkeletonHit   images/enemies/Take_Hit.png
+Texture   TexSkeletonDead   images/enemies/Death.png
+
+
+
+Texture   TexWizardIdle		images/enemies/wizardIdle.png
+Texture   TexWizardAttack1	images/enemies/wizardAttack1.png
+Texture   TexWizardAttack2	images/enemies/wizardAttack2.png
+Texture	  TexWizardTakeHit	images/enemies/wizardTakeHit.png
+Texture	  TexWizardRun		images/enemies/wizardRun.png
+Texture	  TexWizardDeath	images/enemies/wizardDeath.png
+Texture	  TexWizardFall		images/enemies/wizardFall.png
+Texture	  TexWizardJump		images/enemies/wizardJump.png
+Texture	  TexWizardProjectile	images/enemies/wizardProjectile.png
+
+Texture	  TexCoin	images/Items/Coin.png
+Texture   TexCoinHUD	images/Items/Coin2.png
+Texture	  TexHeart	images/Items/Heart.png
+Texture	  TexRedPotion	images/Items/RedPotion.png
+Texture	  TexGreenPotion images/Items/GreenPotion.png
+Texture	  TexPurplePotion images/Items/firePickUp.png
+Texture	  TexGoldPotion	images/Items/GoldPotion.png
+Texture	  TexBluePotion	images/Items/BluePotion.png
+Texture	  TexChest	images/Items/Chest.png
+Texture	  TexJarBig	images/Items/JarBig.png
+Texture	  TexJarSmall	images/Items/JarSmall.png
+Texture	  TexBarrel	images/Items/Barrel.png
+Texture   TexSmallInventory images/Inventory/Hotbar64x64.png
+Texture   TexBowHUD images/Inventory/CurrentBow.png
+Texture   TexAxeHUD images/Inventory/CurrentAxe.png
+Texture   TexDaggerHUD images/Inventory/CurrentDagger.png
+Texture   TexSelect    images/Inventory/Select.png
+Texture   TexArrowHolder    images/Inventory/arrowHolder.png
+Texture   TexEmptyArrowHolder    images/Inventory/emptyarrowHolder.png
+
+
+Texture   TexFloatTileSmall    images/gothic/floatingTile1.png
+Texture   TexFloatTileBig      images/gothic/floatingTile2.png
+Texture   TexPlatformRight      images/gothic/platformRight.png
+Texture   TexPlatformMiddle      images/gothic/platformMiddle.png
+Texture   TexBrick      images/gothic/brick.png
+
+
+Texture   TexParallax1 images/BackGrounds/Parallax/01_Mist.png
+Texture   TexParallax2 images/BackGrounds/Parallax/02_Bushes.png
+Texture   TexParallax3 images/BackGrounds/Parallax/03_Particles.png
+Texture   TexParallax4 images/BackGrounds/Parallax/04_Forest.png
+Texture   TexParallax5 images/BackGrounds/Parallax/05_Particles.png
+Texture   TexParallax6 images/BackGrounds/Parallax/06_Forest.png
+Texture   TexParallax7 images/BackGrounds/Parallax/07_Forest.png
+Texture   TexParallax8 images/BackGrounds/Parallax/08_Forest.png
+Texture   TexParallax9 images/BackGrounds/Parallax/09_Forest.png
+Texture   TexParallax10 images/BackGrounds/Parallax/10_Sky.png
+Texture   TexTransparent images/BackGrounds/Parallax/Transparent.png
+
+Texture   TexParallaxDemon0 images/BackGrounds/Parallax2/0.png
+Texture   TexParallaxDemon1 images/BackGrounds/Parallax2/1.png
+Texture   TexParallaxDemon2 images/BackGrounds/Parallax2/2.png
+Texture   TexParallaxDemon3 images/BackGrounds/Parallax2/3.png
+
+Texture   TexParallaxRed1 images/BackGrounds/Parallax3/0.png
+Texture   TexParallaxRed2 images/BackGrounds/Parallax3/1.png
+Texture   TexParallaxRed3 images/BackGrounds/Parallax3/2.png
+Texture   TexParallaxRed4 images/BackGrounds/Parallax3/3.png
+Texture   TexParallaxRed5 images/BackGrounds/Parallax3/4.png
+Texture   TexParallaxRed6 images/BackGrounds/Parallax3/5.png
+Texture   TexParallaxRed7 images/BackGrounds/Parallax3/6.png
+Texture   TexParallaxRed8 images/BackGrounds/Parallax3/7.png
+Texture   TexParallaxRed9 images/BackGrounds/Parallax3/8.png
+Texture   TexParallaxRed10 images/BackGrounds/Parallax3/9.png
+
+Texture   TexShopLevel	 		images/BackGrounds/Overworld/ShopLevel.png
+Texture   TexCompletedLevel 		images/BackGrounds/Overworld/CompletedLevel.png
+Texture   TexUnlockedLevel 		images/BackGrounds/Overworld/UnlockedLevel.png
+Texture   TexLockedLevel 		images/BackGrounds/Overworld/LockedLevel.png
+Texture	  TexOverworldBackground1 	images/BackGrounds/Overworld/OverworldBackground1.png
+Texture	  TexOverworldBackground2 	images/BackGrounds/Overworld/OverworldBackground2.png
+Texture	  TexOverworldBackground3 	images/BackGrounds/Overworld/OverworldBackground3.png
+Texture	  TexOverworldBackground4 	images/BackGrounds/Overworld/OverworldBackground4.png
+Texture	  TexOverworldBackground5 	images/BackGrounds/Overworld/OverworldBackground5.png
+Texture	  TexOverworldBackground6 	images/BackGrounds/Overworld/OverworldBackground6.png
+Texture	  TexOverworldBackground7 	images/BackGrounds/Overworld/OverworldBackground7.png
+Texture	  TexOverworldBackground8 	images/BackGrounds/Overworld/OverworldBackground8.png
+Texture	  TexOverworldBackground9 	images/BackGrounds/Overworld/OverworldBackground9.png
+Texture	  TexOverworldBackground10 	images/BackGrounds/Overworld/OverworldBackground10.png
+Texture	  TexOverworldBackground11 	images/BackGrounds/Overworld/OverworldBackground11.png
+Texture	  TexOverworldBackground12	images/BackGrounds/Overworld/OverworldBackground12.png
+
+
+
+Texture   TexArrowsUp      images/BackGrounds/Overworld/ArrowsUp.png
+Texture   TexDamageUp      images/BackGrounds/Overworld/DamageUp.png
+Texture   TexHealthUp      images/BackGrounds/Overworld/HealthUp.png
+Texture   TexShopkeeper    images/BackGrounds/Overworld/Shopkeeper.png
+Texture   TexShopPedestal  images/BackGrounds/Overworld/ShopPedestal.png
+Texture   TexShopSign      images/BackGrounds/Overworld/ShopSign.png
+
+Animation Explosion     TexExplode     	48   2 
+Animation Thunder       TexThunder    	12   2 
+Animation FireBird	TexFireBird	16   2
+Animation RunRight      TexRunRight     24   2    
+Animation Jump         	TexJump        	19   5
+Animation StandDown     TexStandD       8    3
+Animation StandRight    TexStandR       18   6    
+Animation StandUp       TexStandU       18   6
+Animation Dagger        TexDagger       26   4 
+Animation Axe	        TexAxe	        12   6
+Animation Bow	        TexBow	         9   2
+Animation Arrow		TexArrow   	 1   0
+Animation ArrowPick		TexArrowPick   	 1   0
+
+Animation Bush    	TexBush		 1   0
+Animation Ground        TexGroundGrass        1   0
+Animation Ground2        TexGroundDirt        1   0
+Animation Rock          TexRock             1   0
+Animation DamagedRock    TexDamagedRock             1   0
+Animation Goal    TexGoal             1   0
+Animation Portal    TexPortal             60   2
+
+Animation Tektite       TexTektite       2  10
+Animation GhostShriek   TexGhostShriek   4  10
+Animation GhostVanish   TexGhostVanish   7  4
+Animation HellHound   	TexHellHound  	 5   5
+Animation DemonIdle	TexDemonIdle	 6   6
+Animation DemonAttack	TexDemonAttack	 11  6
+Animation FireSkull	    TexFireSkull	 8  6
+Animation HellBeastIdle	   TexHellBeastIdle	 6  4
+Animation HellBeastBurn	   TexHellBeastBurn	 6  4
+Animation SkeletonIdle	   TexSkeleton	 4  4
+Animation SkeletonWalk	   TexSkeletonWalk	 4  4
+Animation SkeletonAttack	   TexSkeletonAttack	 8  4
+Animation SkeletonHit	   TexSkeletonHit	 4  4
+Animation SkeletonDead	   TexSkeletonDead	 4  8
+
+Animation WizardIdle   	TexWizardIdle		8  2	
+Animation WizardAttack1	TexWizardAttack1	7  2
+Animation WizardAttack2	TexWizardAttack2        8  2
+Animation WizardTakeHit	TexWizardTakeHit	3  4
+Animation WizardRun	TexWizardRun		8  3
+Animation WizardDeath	TexWizardDeath		7  3
+Animation WizardFall	TexWizardFall		2  2						
+Animation WizardJump	TexWizardJump		2  2
+Animation WizardProjectile	TexWizardProjectile		1  0
+
+Animation Coin		TexCoin		 1   0
+Animation CoinHUD	TexCoinHUD	 1   0
+Animation Heart		TexHeart	 1   0
+Animation RedPotion	TexRedPotion	 1   0
+Animation GreenPotion	TexGreenPotion	 1   0
+Animation PurplePotion	TexPurplePotion	 11   11
+Animation GoldPotion	TexGoldPotion	 1   0
+Animation BluePotion	TexBluePotion	 1   0
+Animation Chest		TexChest	 1   0
+Animation JarBig	TexJarBig	 1   0
+Animation JarSmall	TexJarSmall	 1   0
+Animation Barrel	TexBarrel	 1   0
+Animation SmallInventory TexSmallInventory 1  0
+Animation BowHUD	 TexBowHUD 	1  0
+Animation AxeHUD	 TexAxeHUD 	1  0
+Animation DaggerHUD	 TexDaggerHUD 	1  0
+Animation Select	 TexSelect 	1  0
+Animation ArrowHolder TexArrowHolder 1  0
+Animation EmptyArrowHolder TexEmptyArrowHolder 1  0
+
+Animation FloatTileSmall   TexFloatTileSmall 1 0
+Animation FloatTileBig  TexFloatTileBig 1 0
+Animation PlatformRight TexPlatformRight 1 0
+Animation PlatformMiddle TexPlatformMiddle 1 0
+Animation Brick         TexBrick 1 0
+
+Animation Parallax1	 TexParallax1 	1  0
+Animation Parallax2	 TexParallax2 	1  0
+Animation Parallax3	 TexParallax3 	1  0
+Animation Parallax4	 TexParallax4 	1  0
+Animation Parallax5	 TexParallax5 	1  0
+Animation Parallax6	 TexParallax6 	1  0
+Animation Parallax7	 TexParallax7 	1  0
+Animation Parallax8	 TexParallax8 	1  0
+Animation Parallax9	 TexParallax9 	1  0
+Animation Parallax10     TexParallax10 	1  0
+
+Animation ShopLevel 		TexShopLevel			1  0
+Animation CompletedLevel 	TexCompletedLevel		1  0
+Animation UnlockedLevel 	TexUnlockedLevel		1  0
+Animation LockedLevel 		TexLockedLevel			1  0
+Animation OverworldBackground10	TexOverworldBackground1		1  0
+Animation OverworldBackground10	TexOverworldBackground2		1  0
+Animation OverworldBackground10	TexOverworldBackground3		1  0
+Animation OverworldBackground10	TexOverworldBackground4		1  0
+Animation OverworldBackground10	TexOverworldBackground5		1  0
+Animation OverworldBackground10	TexOverworldBackground6		1  0
+Animation OverworldBackground10	TexOverworldBackground7		1  0
+Animation OverworldBackground10	TexOverworldBackground8		1  0
+Animation OverworldBackground10	TexOverworldBackground9		1  0
+Animation OverworldBackground10	TexOverworldBackground10	1  0
+Animation OverworldBackground10	TexOverworldBackground11	1  0
+Animation OverworldBackground10	TexOverworldBackground12	1  0
+
+Animation ArrowsUp  	TexArrowsUp     1  0
+Animation DamageUp  	TexDamageUp     1  0
+Animation HealthUp  	TexHealthUp     1  0
+Animation Shopkeeper 	TexShopkeeper   9  6
+Animation ShopPedestal 	TexShopPedestal 1  0
+Animation ShopSign    	TexShopSign     1  0
+
+Sound     MusicTitle    sounds/MenuMusic.ogg
+Sound     MusicLevel    sounds/music.ogg
+Sound     MusicGame    	sounds/Suspense.ogg
+Sound     MusicOverworld    	sounds/OverworldMusic.ogg
+Sound     UseItem	sounds/UseItem.wav
+Sound     Melee		sounds/Melee.wav
+Sound     Jump		sounds/Jump.wav
+Sound     Fire		sounds/Fire.wav
+Sound     EnemyHit	sounds/EnemyHit.wav
+Sound     Coin		sounds/Coin.wav
+Sound     Bow		sounds/Bow.wav
+Sound     WizardDeath	sounds/WizardDeath.ogg
+Sound     WizardLaugh	sounds/WizardLaugh.wav
+Sound     Fear		sounds/YouBelongToMe.wav
+Sound     MonsterDeath  sounds/MonsterDeath.wav
+Sound     Potion	sounds/Potion.wav
+Sound     SkeletonHurt	sounds/skeletonHurt.wav
+Sound     MonsterHit	sounds/monsterHit.wav
+Sound     RockBreak	sounds/BreakRock.wav
+Sound     BreakSound	sounds/BreakableSound.wav
+Sound     GameOver	sounds/GameOver.wav
+Sound     fireBird	sounds/fireBirdSound.wav
+
+Font      Arial         fonts/arial.ttf
+Font      Mario         fonts/mario.ttf
+Font      Megaman    fonts/megaman.ttf
+Font	  Gypsy		fonts/GypsyCurse.ttf

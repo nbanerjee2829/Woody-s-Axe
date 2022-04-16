@@ -1,0 +1,39 @@
+                          Made By
+
+               Jeremy Porter      201553849
+               Nayandip Banerjee  201719986
+               Kyle Avery          201834256
+
+          For The Final Project of COMP 4300
+                     Written in C++
+      Graphics Rendering and Sound done using SFML
+           Codebase provided by Dave Churchill
+
+                        Assets From
+
+GothicVania Patreon's Collection     by ansimuz
+Magic Cliffs Environment             by ansimuz
+Red hood pixel character             by Legnops
+Inventory                              by ozanoyunbozan
+The Goblin Shopkeeper                by Tuikasz Piatkowski
+Pixel Art Platformer- Village Props  by Cainos
+RPG- Bow Assets                     by Nexis
+16x16 RPG Item Pack                   by Alex's Assets
+2D Pixel Item Asset Pack              by Startled Pixels
+SHOP Label                            by b2719680
+Free Parallax Forest Background      by Digital Moons
+Free Pixel Art Forest                  by edermunizz
+Hero's Journey - Moon Graveyard     by Anokolisa
+
+		            Sound and Music From
+
+FANTASY MUSIC LOOPS          by FarBeyond Studio
+Legend of Zelda sound effects       by HelpTheWretched
+Creepy Atmospheric Ambient Music    by Blocky
+
+
+
+
+
+
+		        	     THE END

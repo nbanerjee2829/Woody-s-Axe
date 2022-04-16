@@ -1,0 +1,346 @@
+Tile Ground2    0  0  0  11  1  1  
+Tile Ground2    0  0  1  11  1  1  
+Tile Ground    0  0  2  11  1  1  
+Tile Ground    0  0  3  11  1  1  
+Tile Ground    0  0  4  11  1  1  
+Tile Ground    0  0  5  11  1  1  
+Tile Ground    0  0  6  11  1  1  
+Tile Ground    0  0  8  11  1  1  
+Tile Ground    0  0  7  11  1  1  
+Tile Ground    0  0  9  11  1  1  
+Tile Ground    0  0  10  11  1  1  
+Tile Portal    0  0  11  10  1  1  
+Tile Portal    1  0  1  0  1  1  
+Tile PlatformMiddle    1  0  0  5  1  1  
+Tile PlatformMiddle    1  0  1  5  1  1  
+Tile PlatformMiddle    1  0  2  5  1  1  
+Tile PlatformMiddle    1  0  4  5  1  1  
+Tile PlatformMiddle    1  0  3  5  1  1  
+Tile PlatformMiddle    0  0  19  5  1  1  
+Tile PlatformMiddle    0  0  18  5  1  1  
+Tile Portal    1  0  5  4  1  1  
+Tile Portal    0  0  17  2  1  1  
+Tile Portal    0  0  1  10  1  1  
+Tile Portal    0  0  4  5  1  1  
+Tile Portal    0  0  9  5  1  1  
+Tile Ground2    0  0  11  11  1  1  
+Tile Ground2    0  0  13  11  1  1  
+Tile Ground2    0  0  12  11  1  1  
+Tile Ground2    0  0  14  11  1  1  
+Tile PlatformMiddle    1  0  5  5  1  1  
+Tile PlatformMiddle    1  0  6  5  1  1  
+Tile PlatformMiddle    1  0  7  5  1  1  
+Tile PlatformMiddle    0  0  17  5  1  1  
+Tile PlatformMiddle    0  0  16  5  1  1  
+Tile PlatformMiddle    0  0  16  5  1  1  
+Tile PlatformMiddle    1  0  8  5  1  1  
+NPC DemonIdle     0  0  2  1  0  0  3  2  Follow  2  
+NPC DemonIdle     0  0  13  2  0  0  3  2  Follow  2  
+Tile PlatformMiddle    1  0  11  7  1  1  
+Tile PlatformMiddle    1  0  12  7  1  1  
+Tile PlatformMiddle    1  0  15  9  1  1  
+Tile PlatformMiddle    1  0  16  9  1  1  
+Tile PlatformMiddle    1  0  17  10  1  1  
+Tile PlatformMiddle    1  0  18  10  1  1  
+NPC FireSkull     1  0  12  5  0  0  2  1  Patrol  2  3  12  5  10  5  15  5  
+NPC FireSkull     1  0  14  7  0  0  2  1  Patrol  3  3  14  7  14  7  18  7  
+NPC HellHound     2  0  2  10  0  0  2  1  Patrol  2  3  2  10  2  10  6  10  
+NPC HellHound     2  0  8  10  0  0  2  1  Patrol  1  3  8  10  8  10  11  10  
+NPC HellHound     2  0  15  10  0  0  3  1  Patrol  3  3  15  10  17  10  5  10  
+Tile Ground2    2  0  4  11  1  1  
+Tile Ground2    2  0  5  11  1  1  
+Tile Ground2    2  0  6  11  1  1  
+Tile Ground2    2  0  7  11  1  1  
+Tile Ground2    2  0  8  11  1  1  
+Tile Ground2    2  0  9  11  1  1  
+Tile Ground2    2  0  10  11  1  1  
+Tile Ground2    2  0  11  11  1  1  
+Tile Ground2    2  0  12  11  1  1  
+Tile Ground2    2  0  13  11  1  1  
+Tile Ground2    2  0  14  11  1  1  
+Tile Ground2    2  0  15  11  1  1  
+Tile Ground2    2  0  16  11  1  1  
+Tile Ground2    2  0  16  11  1  1  
+Tile Ground2    2  0  18  11  1  1  
+Tile Ground2    2  0  17  11  1  1  
+Tile Ground2    1  0  19  11  1  1  
+Tile Ground2    2  0  0  11  1  1  
+Tile Ground2    2  0  1  11  1  1  
+Tile Ground2    2  0  3  11  1  1  
+Tile Ground2    2  0  2  11  1  1  
+Tile Portal    2  0  11  4  1  1  
+Tile Portal    2  0  11  10  1  1  
+NPC FireSkull     0  0  19  1  0  0  2  1  Follow  1  
+NPC FireSkull     1  0  5  1  0  0  2  1  Follow  1  
+Tile Rock    3  0  5  8  1  1  
+Tile Rock    3  0  5  10  1  1  
+Tile Rock    3  0  5  9  1  1  
+Tile Rock    3  0  5  11  1  1  
+Tile DamagedRock    3  0  5  6  1  1  
+Tile DamagedRock    3  0  5  7  1  1  
+Tile DamagedRock    3  0  5  5  1  1  
+Tile Rock    3  0  16  11  1  1  
+Tile Rock    3  0  17  11  1  1  
+Tile Rock    3  0  18  11  1  1  
+Tile Rock    3  0  19  11  1  1  
+Tile Rock    4  0  0  11  1  1  
+Tile Rock    4  0  1  11  1  1  
+Tile Rock    4  0  2  11  1  1  
+Tile Rock    4  0  3  11  1  1  
+Tile Rock    4  0  4  11  1  1  
+Tile Rock    4  0  5  11  1  1  
+Tile Rock    4  0  6  11  1  1  
+Tile Rock    3  0  6  9  1  1  
+Tile Rock    3  0  7  9  1  1  
+Tile Rock    3  0  7  10  1  1  
+Tile Rock    3  0  6  10  1  1  
+Tile Rock    3  0  6  11  1  1  
+Tile Rock    3  0  7  11  1  1  
+Tile Rock    3  0  8  11  1  1  
+Tile Rock    3  0  6  8  1  1  
+Tile Rock    3  0  8  10  1  1  
+Tile Rock    3  0  9  11  1  1  
+Tile Rock    3  0  10  11  1  1  
+Tile Rock    3  0  11  11  1  1  
+Tile Rock    3  0  13  11  1  1  
+Tile Rock    3  0  12  11  1  1  
+Tile Rock    3  0  14  11  1  1  
+Tile Rock    3  0  15  11  1  1  
+Tile Portal    3  0  9  5  1  1  
+Tile Portal    3  0  12  10  0  1  
+NPC SkeletonIdle     3  0  15  10  0  0  4  1  Follow  2  
+Tile Rock    4  0  8  11  1  1  
+NPC SkeletonIdle     4  0  3  10  0  0  4  1  Follow  2  
+Tile DamagedRock    4  0  2  10  1  1  
+Tile DamagedRock    4  0  6  10  1  1  
+Tile DamagedRock    4  0  6  9  1  1  
+Tile Rock    4  0  11  11  1  1  
+Tile Rock    4  0  15  11  1  1  
+MovingTile Rock    4  0  17  11  1  1  Patrol  1  3  17  11  17  11  19  11  
+Tile Rock    5  0  2  11  1  1  
+Tile DamagedRock    5  0  1  11  1  1  
+Tile DamagedRock    5  0  1  10  1  1  
+Tile DamagedRock    5  0  1  9  1  1  
+Tile DamagedRock    5  0  1  8  1  1  
+Tile DamagedRock    5  0  1  7  1  1  
+Tile Rock    5  0  3  11  1  1  
+Tile Rock    5  0  4  11  1  1  
+Tile Rock    5  0  5  11  1  1  
+Tile Rock    5  0  6  11  1  1  
+NPC HellHound     5  0  5  10  0  0  2  1  Follow  2  
+Tile Rock    5  0  7  11  1  1  
+Tile Rock    5  0  8  11  1  1  
+Tile Rock    5  0  9  11  1  1  
+NPC SkeletonWalk     5  0  3  10  0  0  3  1  Patrol  2  3  3  10  8  10  3  10  
+Tile Rock    5  0  10  11  1  1  
+Tile Rock    5  0  10  10  1  1  
+Tile Rock    5  0  10  9  1  1  
+Tile Rock    5  0  11  9  1  1  
+Tile Rock    5  0  11  10  1  1  
+Tile Rock    5  0  11  11  1  1  
+Tile Rock    5  0  12  9  1  1  
+Tile Rock    5  0  12  8  1  1  
+Tile Rock    5  0  11  8  1  1  
+Tile Rock    5  0  12  7  1  1  
+Tile Rock    5  0  13  7  1  1  
+Tile Rock    5  0  13  6  1  1  
+Tile Rock    5  0  13  8  1  1  
+Tile Rock    5  0  13  9  1  1  
+Tile Rock    5  0  12  10  1  1  
+Tile Rock    5  0  12  11  1  1  
+Tile Rock    5  0  13  10  1  1  
+Tile Rock    5  0  13  11  1  1  
+Tile Rock    5  0  14  5  1  1  
+Tile Rock    5  0  14  6  1  1  
+Tile Rock    5  0  14  7  1  1  
+Tile Rock    5  0  14  8  1  1  
+Tile Rock    5  0  14  8  1  1  
+Tile Rock    5  0  14  9  1  1  
+Tile Rock    5  0  14  10  1  1  
+Tile Rock    5  0  14  10  1  1  
+Tile Rock    5  0  14  11  1  1  
+Tile Rock    5  0  15  4  1  1  
+Tile Rock    5  0  15  5  1  1  
+Tile Rock    5  0  15  6  1  1  
+Tile Rock    5  0  15  8  1  1  
+Tile Rock    5  0  15  7  1  1  
+Tile Rock    5  0  15  9  1  1  
+Tile Rock    5  0  15  10  1  1  
+Tile Rock    5  0  15  11  1  1  
+MovingTile FloatTileBig    5  0  17  4  1  0  Patrol  2  3  17  4  17  4  22  4  
+Tile FloatTileBig    6  0  5  4  1  1  
+Tile FloatTileBig    6  0  9  6  1  1  
+Tile FloatTileSmall    6  0  12  5  1  1  
+Tile FloatTileSmall    6  0  14  7  1  1  
+Tile FloatTileBig    6  0  17  7  1  1  
+NPC DemonIdle     6  0  5  2  0  0  6  2  Follow  0  
+NPC DemonIdle     6  0  9  4  0  0  6  2  Follow  0  
+NPC DemonIdle     6  0  16  10  0  0  5  2  Follow  2  
+MovingTile FloatTileSmall    6  0  19  6  1  0  Patrol  1  3  19  6  19  6  23  6  
+Tile FloatTileSmall    7  0  5  8  1  1  
+Tile FloatTileSmall    7  0  8  9  1  1  
+Tile PlatformMiddle    7  0  10  11  1  1  
+Tile PlatformMiddle    7  0  11  11  1  1  
+Tile PlatformMiddle    7  0  12  11  1  1  
+Tile PlatformMiddle    7  0  14  11  1  1  
+Tile PlatformMiddle    7  0  13  11  1  1  
+Tile PlatformMiddle    7  0  15  11  1  1  
+Tile PlatformMiddle    7  0  16  11  1  1  
+Tile PlatformMiddle    7  0  17  11  1  1  
+Tile PlatformMiddle    7  0  19  11  1  1  
+Tile PlatformMiddle    7  0  18  11  1  1  
+Tile PlatformMiddle    8  0  0  11  1  1  
+Tile PlatformMiddle    8  0  1  11  1  1  
+Tile PlatformMiddle    8  0  2  11  1  1  
+Tile PlatformMiddle    8  0  3  11  1  1  
+Tile PlatformMiddle    8  0  5  11  1  1  
+Tile PlatformMiddle    8  0  4  11  1  1  
+Tile PlatformMiddle    8  0  6  11  1  1  
+Tile PlatformMiddle    8  0  7  11  1  1  
+Tile PlatformMiddle    8  0  8  11  1  1  
+Tile PlatformMiddle    8  0  9  11  1  1  
+Tile PlatformMiddle    8  0  11  11  1  1  
+Tile PlatformMiddle    8  0  10  11  1  1  
+Tile PlatformMiddle    8  0  12  11  1  1  
+Tile PlatformMiddle    8  0  14  11  1  1  
+Tile PlatformMiddle    8  0  13  11  1  1  
+Tile PlatformMiddle    8  0  15  11  1  1  
+Tile Goal    8  0  14  10  1  1  
+Tile PlatformMiddle    8  0  16  11  1  1  
+Tile PlatformMiddle    8  0  17  11  1  1  
+Tile PlatformMiddle    8  0  18  11  1  1  
+Tile PlatformMiddle    8  0  19  11  1  1  
+NPC HellHound     7  0  12  10  0  0  1  1  Patrol  3  3  12  10  12  10  17  10  
+NPC HellHound     7  0  16  10  0  0  1  1  Patrol  1  3  16  10  16  10  22  10  
+NPC HellHound     8  0  2  10  0  0  1  1  Patrol  3  3  2  10  0  10  6  10  
+NPC HellHound     8  0  4  10  0  0  1  1  Patrol  2  3  4  10  4  10  10  10  
+NPC DemonIdle     7  0  16  4  0  0  3  1  Follow  2  
+NPC FireSkull     7  0  13  1  0  0  2  1  Follow  1  
+NPC FireSkull     8  0  0  1  0  0  2  1  Follow  1  
+NPC DemonIdle     8  0  1  5  0  0  3  1  Follow  2  
+Tile PlatformMiddle    9  0  0  11  1  1  
+Tile PlatformMiddle    9  0  1  11  1  1  
+Tile PlatformMiddle    9  0  2  11  1  1  
+Tile PlatformMiddle    9  0  3  11  1  1  
+Tile PlatformMiddle    9  0  4  11  1  1  
+Tile PlatformMiddle    9  0  5  11  1  1  
+Tile PlatformMiddle    9  0  6  11  1  1  
+Tile PlatformMiddle    9  0  7  11  1  1  
+Tile PlatformMiddle    9  0  8  11  1  1  
+Tile PlatformMiddle    9  0  9  11  1  1  
+Item BluePotion    0  0  4  5  0  0  
+Item GreenPotion    0  0  9  5  0  0  
+Item JarSmall    0  0  8  10  0  0  
+Item JarSmall    0  0  4  10  0  0  
+Item JarBig    0  0  13  10  0  0  
+Item Barrel    0  0  19  4  0  0  
+Item Chest    1  0  8  4  0  0  
+Item JarSmall    2  0  6  10  0  0  
+Item JarSmall    2  0  4  10  0  0  
+Item JarSmall    2  0  5  10  0  0  
+Item GoldPotion    2  0  12  10  0  0  
+Item PurplePotion    2  0  18  10  0  0  
+Item Coin    4  0  1  10  0  0  
+Item Coin    4  0  0  10  0  0  
+Item Coin    3  0  18  10  0  0  
+Item Coin    3  0  19  10  0  0  
+Item Heart    3  0  14  10  0  0  
+Item Coin    3  0  16  10  0  0  
+Item Coin    3  0  10  10  0  0  
+Item Coin    3  0  9  10  0  0  
+Item Coin    3  0  8  9  0  0  
+Item Coin    3  0  7  8  0  0  
+Item Coin    3  0  6  7  0  0  
+Item Heart    3  0  2  7  0  0  
+Item Heart    1  0  17  9  0  0  
+Item Coin    1  0  18  9  0  0  
+Item Coin    1  0  16  8  0  0  
+Item Coin    1  0  15  8  0  0  
+Item Coin    1  0  12  6  0  0  
+Item Coin    1  0  11  6  0  0  
+Item Coin    1  0  4  4  0  0  
+Item Coin    1  0  3  4  0  0  
+Item Coin    1  0  2  4  0  0  
+Item Coin    1  0  1  4  0  0  
+Item Coin    1  0  0  4  0  0  
+Item Coin    0  0  18  4  0  0  
+Item Coin    0  0  17  4  0  0  
+Item Coin    0  0  16  4  0  0  
+MovingTile FloatTileSmall    2  0  17  9  1  0  Patrol  1  1  17  9  
+MovingTile FloatTileSmall    2  0  19  8  1  1  Patrol  1  2  19  8  21  8  
+MovingTile FloatTileBig    3  0  3  8  1  1  Patrol  1  1  3  8  
+Tile Rock    4  0  13  11  1  1  
+Item Barrel    4  0  8  10  0  0  
+Item BluePotion    4  0  5  8  0  0  
+Item GoldPotion    5  0  7  9  0  0  
+Item PurplePotion    5  0  14  4  0  0  
+Item Heart    6  0  5  3  0  0  
+Item Heart    6  0  0  2  0  0  
+Item Coin    6  0  17  5  0  0  
+Item Coin    6  0  16  5  0  0  
+Item Coin    6  0  18  5  0  0  
+Item Coin    6  0  14  6  0  0  
+Item Coin    6  0  12  4  0  0  
+Item Coin    6  0  10  4  0  0  
+Item Coin    6  0  9  4  0  0  
+Item Coin    6  0  8  4  0  0  
+Item Coin    7  0  5  6  0  0  
+Item Coin    7  0  8  7  0  0  
+Item Coin    7  0  11  9  0  0  
+Item Coin    7  0  12  9  0  0  
+Item Coin    7  0  13  9  0  0  
+Item Coin    7  0  14  9  0  0  
+Item Coin    7  0  15  9  0  0  
+Item ArrowPick    7  0  18  10  0  0  
+Item ArrowPick    5  0  17  2  0  0  
+Item ArrowPick    5  0  10  8  0  0  
+Item ArrowPick    5  0  6  10  0  0  
+Item ArrowPick    4  0  13  10  0  0  
+Item ArrowPick    4  0  4  10  0  0  
+Item ArrowPick    2  0  19  7  0  0  
+Item ArrowPick    1  0  6  3  0  0  
+Item ArrowPick    2  0  17  10  0  0  
+Item RedPotion    7  0  0  5  0  0  
+Item Heart    7  0  10  10  0  0  
+Item Heart    7  0  14  10  0  0  
+Item Heart    7  0  19  10  0  0  
+Item Heart    8  0  7  10  0  0  
+MovingTile Rock    4  0  9  11  1  1  Patrol  1  1  9  11  
+NPC GhostShriek     4  0  8  8  0  0  8  3  Patrol  2  3  8  8  8  8  19  8  
+Item PurplePotion    0  0  14  10  0  0  
+Item PurplePotion    0  0  14  9  0  0  
+Item PurplePotion    0  0  14  8  0  0  
+Item PurplePotion    0  0  9  10  0  0  
+Item PurplePotion    0  0  10  10  0  0  
+Item PurplePotion    0  0  3  10  0  0  
+Item PurplePotion    0  0  2  10  0  0  
+Item PurplePotion    1  0  7  4  0  0  
+Item PurplePotion    1  0  6  4  0  0  
+Item PurplePotion    1  0  15  8  0  0  
+Item PurplePotion    1  0  19  10  0  0  
+Item PurplePotion    2  0  0  10  0  0  
+Item PurplePotion    3  0  3  7  0  0  
+Item PurplePotion    3  0  5  4  0  0  
+Item PurplePotion    3  0  6  5  0  0  
+Item PurplePotion    3  0  6  6  0  0  
+Item PurplePotion    3  0  11  5  0  0  
+Item PurplePotion    3  0  12  5  0  0  
+Item PurplePotion    3  0  14  5  0  0  
+Item PurplePotion    3  0  13  5  0  0  
+Item PurplePotion    3  0  15  5  0  0  
+Item PurplePotion    3  0  16  5  0  0  
+Item PurplePotion    3  0  17  5  0  0  
+Item PurplePotion    4  0  15  6  0  0  
+Item PurplePotion    4  0  11  6  0  0  
+Item PurplePotion    5  0  4  6  0  0  
+Item PurplePotion    5  0  3  6  0  0  
+Item PurplePotion    5  0  16  2  0  0  
+Item PurplePotion    5  0  18  2  0  0  
+Item PurplePotion    6  0  5  0  0  0  
+Item PurplePotion    6  0  9  0  0  0  
+Item PurplePotion    6  0  9  2  0  0  
+NPC GhostShriek     4  0  11  9  0  0  2  2  Patrol  2  3  11  9  11  9  11  7  
+NPC GhostShriek     4  0  15  7  0  0  2  2  Patrol  2  3  15  7  15  9  15  7  
+Player 416 544 40 64 3 3 2 
+NPC SkeletonIdle     3  0  17  10  0  0  3  1  Follow  1  
+NPC SkeletonIdle     4  0  0  10  0  0  3  1  Follow  3

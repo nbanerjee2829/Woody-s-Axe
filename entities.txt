@@ -1,0 +1,40 @@
+None
+Tile Ground               0  0  0  0  1  1
+
+Tile Ground2              0  0  0  0  1  1
+Tile Rock              0  0  0  0  1  1
+Tile DamagedRock              0  0  0  0  1  1
+Tile Goal              0  0  0  0  1  1
+Tile Portal              0  0  0  0  1  1
+
+Tile FloatTileSmall       0  0  0  0  1  1
+Tile FloatTileBig         0  0  0  0  1  1
+Tile PlatformMiddle         0  0  0  0  1  1
+MovingTile FloatTileSmall 0  0  0  0  1  1 Patrol  1 1 0 0
+MovingTile FloatTileBig   0  0  0  0  1  1 Patrol  1 1 0 0
+MovingTile Rock   0  0  0  0  1  1 Patrol  1 1 0 0
+
+NPC SkeletonIdle          0  0  0  0  0  0  1  1  Follow  1
+NPC SkeletonWalk          0  0  0  0  0  0  1  1  Patrol  2 1 0 0
+NPC HellHound             0  0  0  0  0  0  1  1  Follow  1
+NPC HellHound             0  0  0  0  0  0  1  1  Patrol  1 1 0 0
+NPC GhostShriek           0  0  0  0  0  0  2  2  Follow  2
+NPC GhostShriek           0  0  0  0  0  0  2  2  Patrol  2 1 0 0
+NPC DemonIdle             0  0  0  0  0  0  3  3  Follow  3
+NPC DemonIdle             0  0  0  0  0  0  3  3  Patrol  3 1 0 0
+NPC FireSkull             0  0  0  0  0  0  3  3  Follow  5
+NPC FireSkull             0  0  0  0  0  0  3  3  Patrol  5 1 0 0
+NPC WizardIdle            0  0  0  0  0  0  3  3  Follow  2
+Item Coin                 0  0  0  0  0  0
+Item Heart                0  0  0  0  0  0
+Item RedPotion            0  0  0  0  0  0
+Item PurplePotion         0  0  0  0  0  0
+Item GoldPotion           0  0  0  0  0  0
+Item BluePotion           0  0  0  0  0  0
+Item GreenPotion           0  0  0  0  0  0
+Item Chest	           0  0  0  0  0  0
+Item JarBig	           0  0  0  0  0  0
+Item JarSmall	           0  0  0  0  0  0
+Item Barrel	           0  0  0  0  0  0
+Item ArrowPick            0 0  0  0  0   0
+
