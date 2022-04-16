@@ -1,5 +1,8 @@
 # Woody-s-Axe
+-Comp 4300 Game Progamming Final Game Project made in C++/SFML using ECS. <br>
+-Includes a level editor which can be used to make your own levels for the game
 
+<h4>Trailer:</h4> https://www.youtube.com/watch?v=2V96-y0-dmY
 <h2>Installation</h2>
 -Git clone or Download the Zip<br>
 -Open Woody's Axe.exe
